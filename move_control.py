@@ -10,7 +10,7 @@ cv.imshow('Tello image',stream)
 
 # 기본 이동거리 및 회전각
 length = 50
-angle = 90
+angle = 180
 
 # keyboard control
 while True:
