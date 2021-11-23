@@ -1,5 +1,7 @@
-## Tello_rapa
-tello python control
+## 주의 사항
+* VSCode로 드론 제어시
+* Packet Sender도 같이 켜놓는다.
+* 버그 발생시 Packet Sender로 land 명령어 전송하기 위함임.
 
 ## Install link
 * conda 가상환경 설정 링크
